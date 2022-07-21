@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2ec9dc-0435-4071-9fe8-1ac4dbf8a1b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shaders/ShaderProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shaders/StaticShader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shaders/shader.frag" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shaders/shader.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/awesomeface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/block_solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/toy_box_disp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/TexturedModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textures/ModelTexture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/engineTester/MainGameLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engineTester/MainGameLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderEngine/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderEngine/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderEngine/RawModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/RawModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderEngine/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderEngine/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shaders/StaticShader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shaders/StaticShader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shaders/shader.frag" beforeDir="false" afterPath="$PROJECT_DIR$/src/shaders/shader.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shaders/shader.vert" beforeDir="false" afterPath="$PROJECT_DIR$/src/shaders/shader.vert" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/project/GameEngine/lib/natives&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/project/GameEngine/res",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\GameEngine\res" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainGameLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="engineTester.MainGameLoop" />
@@ -81,7 +93,7 @@
       <workItem from="1658230826220" duration="2046000" />
       <workItem from="1658297863804" duration="5477000" />
       <workItem from="1658367228043" duration="3661000" />
-      <workItem from="1658377847422" duration="293000" />
+      <workItem from="1658377847422" duration="4972000" />
     </task>
     <servers />
   </component>
