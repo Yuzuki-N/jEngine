@@ -27,7 +27,7 @@ public class Loader {
         return new RawModel(vaoID, indices.length);
     }
 
-    public void cleanup()
+    public void cleanUp()
     {
         for(int vao : vaos) {
             GL30.glDeleteVertexArrays(vao);
