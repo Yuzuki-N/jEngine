@@ -18,7 +18,7 @@ public class DisplayManager {
         try {
             Display.setDisplayMode(new DisplayMode(WIDTH, HEIGHT));
             Display.create(new PixelFormat(), attribs);
-            Display.setTitle("First Display");
+            Display.setTitle("opengl renderer");
         } catch (LWJGLException e) {
             throw new RuntimeException(e);
         }
